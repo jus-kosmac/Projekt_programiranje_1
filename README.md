@@ -14,6 +14,6 @@ Vsi podatki so bili zajeti s strani [Socialblade](http://socialblade.com/youtube
 ## Analiza podatkov
 * pregled največjih kanalov
 * razširjenost posameznih kategorij po letih
-* primerjava kategorij (razmerja med naročniki, ogledi in stevilom videov)
+* primerjava kategorij (razmerja med naročniki, ogledi in številom videov)
 * zastopanost držav
 
